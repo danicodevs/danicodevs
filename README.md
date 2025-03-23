@@ -115,7 +115,7 @@ Me chamo Daniel de Paula Cardoso, tenho 19 anos e sou natural do Espítiro Santo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=danicodevs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -123,7 +123,7 @@ Me chamo Daniel de Paula Cardoso, tenho 19 anos e sou natural do Espítiro Santo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicodevs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
