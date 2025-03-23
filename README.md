@@ -91,14 +91,6 @@ Me chamo Daniel de Paula Cardoso, tenho 19 anos e sou natural do Espítiro Santo
 />
 <img 
     align="left" 
-    alt="Handlebars" 
-    title="Handlebars"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Android Studio" 
     title="Android Studio"
     width="30px" 
