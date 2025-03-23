@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Daniel Cardoso
+#  Daniel Cardoso
 
 **`Desenvolvedor FullStack`**
 
