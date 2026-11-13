@@ -1,8 +1,8 @@
 #  Daniel Cardoso
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Junior`**
 
-Me chamo Daniel de Paula Cardoso, tenho 19 anos e sou natural do Espítiro Santo. Concluí o ensino médio no CEDTEC, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na UFES.
+Me chamo Daniel de Paula Cardoso, tenho 19 anos e sou natural do Espírito Santo. Concluí o ensino médio no CEDTEC, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na UFES.
 
 <p align="left">
     <a href="https://instagram.com/odancardoso">
